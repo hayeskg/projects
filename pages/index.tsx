@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          E-Nano <a href="https://nextjs.org">{` `}Projects</a>
+          en <a href="https://nextjs.org">{` `}Projects</a>
         </h1>
 
         <p className={styles.description}>
